@@ -1,4 +1,4 @@
-# Parkinson-s-Disease-Model
+# Parkinson's-Disease-Model
 Parkinson's Disease Diagnostic Model Using Machine Learning
 
 Parkinson’s disease is a progressive disorder that affects the nervous system and the parts of the body controlled by the nerves.
